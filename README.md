@@ -18,6 +18,10 @@
 
 - 📄 Know about my experiences 
 [Sumit-Saurabh-Resume.pdf](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/files/11837755/Sumit-Saurabh-Resume.pdf)
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/sumit-saurabh-98ss/
 
 
 <!-- Languages and Tools -->
