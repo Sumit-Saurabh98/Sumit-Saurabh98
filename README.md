@@ -14,7 +14,6 @@
 </p>    
 <br>
 - 👨‍💻 All of my projects are available at https://sumit-saurabh98.github.io/
-  </a>
 
 <!-- Languages and Tools -->
 
