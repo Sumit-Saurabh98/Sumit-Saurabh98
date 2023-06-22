@@ -39,15 +39,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
-![mongoose](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/d90f763d-04c4-4bc6-82f1-9dc75efefdb4)
-![express](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/e0024803-909a-4e61-b172-095d49ba7425)
-![redux](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/7ff000f9-6505-45a6-a802-36080adc60bd)
-
-![postman](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/4560808c-bec6-4b48-b37a-ec36da710d22)
-![chakraui](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/7f8b2ad6-4823-4998-b7e8-59c58e388a6a)
-
-
-
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
@@ -63,6 +54,24 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+     <img  alt="express" height="50px" style="padding-right:10px;" src="https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/5a9a725d-09ce-48d0-ba92-8be6a6337ff9"/>
+  </a>
+
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+     <img  alt="chakraui" height="50px" style="padding-right:10px;" src="https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/646791f4-dc16-4549-9fe4-04fa51d47df9"/>
+  </a>
+
+<a href="https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/" target="_blank" rel="noreferrer">
+     <img  alt="dsa" height="50px" style="padding-right:10px;" src="https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/f3b412e9-064f-4cce-8b74-5685fca4492b"/>
+  </a>
+
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+     <img  alt="mongoose" height="50px" style="padding-right:10px;" src="https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/5f80c5c2-0500-4959-b105-d7a21c418ff6"/>
+  </a>
+
+
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   </a>
