@@ -13,7 +13,7 @@
 </div>
 </p>    
 <br>
-- 👨‍💻 All of my projects are available at [https://sumit-saurabh98.github.io/](https://sumit-saurabh98.github.io/)
+- 👨‍💻 All of my projects are available at [project](https://sumit-saurabh98.github.io/)
   </a>
 
 <!-- Languages and Tools -->
