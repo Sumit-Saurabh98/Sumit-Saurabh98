@@ -39,6 +39,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
+![mongoose](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/d90f763d-04c4-4bc6-82f1-9dc75efefdb4)
+![express](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/e0024803-909a-4e61-b172-095d49ba7425)
+![redux](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/7ff000f9-6505-45a6-a802-36080adc60bd)
+
+![postman](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/4560808c-bec6-4b48-b37a-ec36da710d22)
+![chakraui](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/7f8b2ad6-4823-4998-b7e8-59c58e388a6a)
+
+
+
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
