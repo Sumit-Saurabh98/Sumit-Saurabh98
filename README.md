@@ -14,6 +14,11 @@
 </p>    
 <br>
 - 👨‍💻 All of my projects are available at https://sumit-saurabh98.github.io/
+<br/>
+
+- 📄 Know about my experiences 
+[Sumit-Saurabh-Resume.pdf](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/files/11837755/Sumit-Saurabh-Resume.pdf)
+
 
 <!-- Languages and Tools -->
 
