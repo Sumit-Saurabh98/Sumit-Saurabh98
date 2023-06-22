@@ -1,9 +1,10 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Sumit Saurabh </h1>
 
 ![My bannar](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/c0384855-945a-48d0-8dbe-dd364f4956bc)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
+   I'm Sumit Saurabh, a dedicated Full Stack Web Developer specializing in MERN (MongoDB, Express.js, React.js, Node.js) development. With a passion for continuous learning, I created exceptional web applications using technologies like HTML, CSS, JavaScript, and React.js, Node.js. Express, MongoDB.
+ I thrive on problem-solving, enjoy collaborating with teams, and have a portfolio showcasing my attention to detail and dedication to delivering high-quality results. 
 <br>
 <br>
 <div align="center">
