@@ -12,16 +12,12 @@
 [Email Me](mailto:sumitsaurabh112@gmail.com)
 </div>
 </p>    
-<br>
-- 👨‍💻 All of my projects are available at https://sumit-saurabh98.github.io/
 <br/>
 
-- 📄 Know about my experiences 
-[Sumit-Saurabh-Resume.pdf](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/files/11837755/Sumit-Saurabh-Resume.pdf)
-<br/>
+- 🕸️ <b>My WebSite</b> -<a href= "https://sumit-saurabh98.githib.io">Click Here</a> <br/>
+- 📃 <b>Resume</b> - <a href= "https://www.dropbox.com/s/6gn2ow2n6oygqgy/Sumit-Saurabh-Resume.pdf?dl=0" >Click Here</a><br/>
+- 📨 <b>Contact me</b> - <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sumitsaurabh112@gmail.com">Click Here</a>
 
-<h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/sumit-saurabh-98ss/
 
 
 <!-- Languages and Tools -->
