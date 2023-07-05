@@ -14,7 +14,7 @@
 </p>    
 <br/>
 
-- 🕸️ <b>My Portfolio</b> -<a href= "https://sumit-saurabh98.github.io">Click Here</a> <br/>
+- 🕸️ [Portfolio](https://Sumit-Saurabh98.github.io)
 - 📃 <b>Resume</b> - <a href= "https://www.dropbox.com/s/6gn2ow2n6oygqgy/Sumit-Saurabh-Resume.pdf?dl=0" >Click Here</a><br/>
 - 📨 <b>Contact me</b> - <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sumitsaurabh112@gmail.com">Click Here</a>
 
