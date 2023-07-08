@@ -1,5 +1,8 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Sumit Saurabh </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumit-Saurabh98&label=Profile%20views&color=0e75b6&style=flat" alt="Sumit-Saurabh98" /> </p>
+
+
 ![My bannar](https://github.com/Sumit-Saurabh98/Sumit-Saurabh98/assets/105351295/c0384855-945a-48d0-8dbe-dd364f4956bc)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
