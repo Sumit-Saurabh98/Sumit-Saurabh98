@@ -38,15 +38,13 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
-
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-Saurabh98&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sumit-Saurabh98&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Saurabh98&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sumit-Saurabh98&show_icons=true&locale=en&layout=compact" alt="Sumit-Saurabh98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumit-Saurabh98&show_icons=true&locale=en" alt="Sumit-Saurabh98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Saurabh98&" alt="Sumit-Saurabh98" /></p>
 </div>
 
 ## 🏆 GitHub Trophies 
