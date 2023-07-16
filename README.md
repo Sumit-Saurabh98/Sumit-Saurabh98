@@ -61,6 +61,6 @@
 - My GitHub Portfolio Page:
 https://Sumit-Saurabh98.github.io
 - My Resume:
-https://1drv.ms/b/s!AmhPXI-OneQSm2wTzafeg5Kbtkl4?e=oLTiUR
+https://1drv.ms/b/s!AmhPXI-OneQSm3czODMe68y1rlWU?e=1cc1M8
 - Email me:
 https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sumitsaurabh112@gmail.com
