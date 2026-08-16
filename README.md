@@ -119,10 +119,18 @@
 
 ---
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409EFF/Sumit-Saurabh98" width="100%" />
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumit-Saurabh98/Sumit-Saurabh98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sumit-Saurabh98/Sumit-Saurabh98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
