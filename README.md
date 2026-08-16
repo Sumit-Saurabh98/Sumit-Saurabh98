@@ -173,6 +173,9 @@ I enjoy solving engineering problems around distributed systems, search infrastr
 ## 🐍 Contribution Snake
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Sumit-Saurabh98/Sumit-Saurabh98/output/github-contribution-grid-snake.svg" />
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Sumit-Saurabh98/Sumit-Saurabh98/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
