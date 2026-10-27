@@ -113,28 +113,6 @@
 
 ---
 
-# 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Saurabh98&theme=tokyo-night&hide_border=true)](https://github.com/Sumit-Saurabh98)
-
----
-
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409EFF/Sumit-Saurabh98" width="100%" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sumit-Saurabh98/Sumit-Saurabh98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
-
----
-
 <p align="center">
   <i>"Building scalable software, one commit at a time."</i>
 </p>
